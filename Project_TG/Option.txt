@@ -1,0 +1,5 @@
+Back Ground Music Volume : 50
+Sound Effects Volume     : 50
+Keyboard Repeat Delay    : 50
+Keyboard Repeat Rate     : 50
+Nickname : sdfsdfsdf
